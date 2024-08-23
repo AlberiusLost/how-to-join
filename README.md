@@ -1,3 +1,5 @@
+Note: This is a mostly out of date file. If you want to get involved, join our Discord and inquire https://discord.gg/YQ2pznAM76.
+
 # Welcome!
 This is a super quick readme file to quickly explain the process of becoming a Contributor and eventually a Developer for the Dragalia Lost Continuation project.
 
